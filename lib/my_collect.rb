@@ -7,4 +7,3 @@ def new_collection(array)
   end
   collection
 end
-
